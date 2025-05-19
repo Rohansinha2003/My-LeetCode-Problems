@@ -1,38 +1,24 @@
-# GFG
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
-## Merge Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
-<!---LeetCode Topics End-->
+This repository serves as a personal tracker and portfolio of my progress on LeetCode. Every time I solve a problem, the solution is pushed here automatically with the problem name, difficulty, and topic tags—thanks to LeetHub!
+
+✍️ Languages Used
+Python 🐍
+
+Java ☕
+
+C++ 💻
+
+JavaScript 🟨
+
+SQL 🗃️
+
+Bash 🐚
+
+The language depends on how I approached the problem during that session.
+
+
+📈 Progress
+You can track my LeetCode progress through this repo. It reflects the problems I've attempted, solved, and mastered over time.
+
+
+
