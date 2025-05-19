@@ -22,6 +22,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rohansinha2003/GFG/tree/master/0001-two-sum) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -32,4 +33,8 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Rohansinha2003/GFG/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
