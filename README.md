@@ -26,6 +26,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
