@@ -26,6 +26,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohansinha2003/GFG/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
@@ -78,4 +79,8 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohansinha2003/GFG/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
