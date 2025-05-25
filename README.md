@@ -80,6 +80,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohansinha2003/GFG/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,4 +94,5 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
