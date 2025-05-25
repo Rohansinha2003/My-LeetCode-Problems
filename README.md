@@ -35,6 +35,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0001-two-sum](https://github.com/Rohansinha2003/GFG/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohansinha2003/GFG/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
