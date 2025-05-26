@@ -96,6 +96,11 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0151-reverse-words-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
