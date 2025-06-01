@@ -34,6 +34,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
@@ -132,5 +133,10 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
