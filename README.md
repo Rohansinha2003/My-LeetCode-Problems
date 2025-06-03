@@ -30,6 +30,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 ## Math
@@ -37,6 +38,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -90,6 +92,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
