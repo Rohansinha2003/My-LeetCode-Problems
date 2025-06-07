@@ -84,6 +84,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohansinha2003/GFG/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohansinha2003/GFG/tree/master/0027-remove-element) |
@@ -97,6 +98,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohansinha2003/GFG/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -106,6 +108,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohansinha2003/GFG/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
