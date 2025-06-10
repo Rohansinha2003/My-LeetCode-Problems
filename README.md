@@ -38,6 +38,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Rohansinha2003/GFG/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
@@ -52,6 +53,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohansinha2003/GFG/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Rohansinha2003/GFG/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
@@ -109,6 +111,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohansinha2003/GFG/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Rohansinha2003/GFG/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
