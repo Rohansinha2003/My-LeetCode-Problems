@@ -43,6 +43,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rohansinha2003/GFG/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
@@ -161,5 +162,6 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohansinha2003/GFG/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/Rohansinha2003/GFG/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
