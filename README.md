@@ -35,6 +35,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/Rohansinha2003/GFG/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 ## Math
@@ -164,4 +165,5 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0035-search-insert-position](https://github.com/Rohansinha2003/GFG/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/Rohansinha2003/GFG/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
