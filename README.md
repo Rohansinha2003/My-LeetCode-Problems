@@ -48,6 +48,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,4 +168,8 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/Rohansinha2003/GFG/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0882-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
