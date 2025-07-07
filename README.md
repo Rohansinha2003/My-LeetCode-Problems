@@ -67,6 +67,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Rohansinha2003/GFG/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +93,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Rohansinha2003/GFG/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -130,6 +132,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Rohansinha2003/GFG/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rohansinha2003/GFG/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
