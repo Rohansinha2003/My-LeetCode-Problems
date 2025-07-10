@@ -163,11 +163,13 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Rohansinha2003/GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Rohansinha2003/GFG/tree/master/0021-merge-two-sorted-lists) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
