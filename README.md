@@ -35,6 +35,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Rohansinha2003/GFG/tree/master/0219-contains-duplicate-ii) |
 | [0792-binary-search](https://github.com/Rohansinha2003/GFG/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
@@ -67,6 +68,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Rohansinha2003/GFG/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Rohansinha2003/GFG/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -189,4 +191,8 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rohansinha2003/GFG/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
