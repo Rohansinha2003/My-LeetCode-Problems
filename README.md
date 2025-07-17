@@ -51,6 +51,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
+| [0445-add-two-numbers-ii](https://github.com/Rohansinha2003/GFG/tree/master/0445-add-two-numbers-ii) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
@@ -148,6 +149,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0032-longest-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/Rohansinha2003/GFG/tree/master/0445-add-two-numbers-ii) |
 ## Tree
 |  |
 | ------- |
@@ -174,6 +176,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Rohansinha2003/GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
+| [0445-add-two-numbers-ii](https://github.com/Rohansinha2003/GFG/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
