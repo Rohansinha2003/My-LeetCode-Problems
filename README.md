@@ -48,6 +48,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rohansinha2003/GFG/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Rohansinha2003/GFG/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
@@ -182,6 +183,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Rohansinha2003/GFG/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Rohansinha2003/GFG/tree/master/0050-powx-n) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
