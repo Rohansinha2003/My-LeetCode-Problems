@@ -31,6 +31,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohansinha2003/GFG/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rohansinha2003/GFG/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Rohansinha2003/GFG/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -204,6 +205,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rohansinha2003/GFG/tree/master/0039-combination-sum) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
 |  |
