@@ -50,6 +50,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rohansinha2003/GFG/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Rohansinha2003/GFG/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Rohansinha2003/GFG/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
@@ -201,6 +202,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rohansinha2003/GFG/tree/master/0029-divide-two-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
 |  |
