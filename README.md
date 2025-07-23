@@ -217,4 +217,8 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rohansinha2003/GFG/tree/master/0036-valid-sudoku) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rohansinha2003/GFG/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
