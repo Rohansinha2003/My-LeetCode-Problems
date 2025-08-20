@@ -228,6 +228,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0577-employee-bonus](https://github.com/Rohansinha2003/GFG/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Rohansinha2003/GFG/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Rohansinha2003/GFG/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/Rohansinha2003/GFG/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Rohansinha2003/GFG/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/Rohansinha2003/GFG/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/Rohansinha2003/GFG/tree/master/1153-product-sales-analysis-i) |
