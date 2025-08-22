@@ -254,6 +254,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rohansinha2003/GFG/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rohansinha2003/GFG/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Rohansinha2003/GFG/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/Rohansinha2003/GFG/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Rohansinha2003/GFG/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Rohansinha2003/GFG/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rohansinha2003/GFG/tree/master/1908-recyclable-and-low-fat-products) |
