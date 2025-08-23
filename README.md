@@ -225,6 +225,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Rohansinha2003/GFG/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Rohansinha2003/GFG/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Rohansinha2003/GFG/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rohansinha2003/GFG/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Rohansinha2003/GFG/tree/master/0577-employee-bonus) |
