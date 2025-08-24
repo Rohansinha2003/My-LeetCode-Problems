@@ -67,6 +67,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0016-3sum-closest](https://github.com/Rohansinha2003/GFG/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -80,6 +81,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rohansinha2003/GFG/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Rohansinha2003/GFG/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,6 +151,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Rohansinha2003/GFG/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Rohansinha2003/GFG/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Rohansinha2003/GFG/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -205,6 +208,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohansinha2003/GFG/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
 |  |
