@@ -220,6 +220,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rohansinha2003/GFG/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/Rohansinha2003/GFG/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
 |  |
