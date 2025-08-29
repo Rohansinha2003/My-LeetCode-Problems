@@ -158,6 +158,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0383-ransom-note](https://github.com/Rohansinha2003/GFG/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Rohansinha2003/GFG/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/Rohansinha2003/GFG/tree/master/0459-repeated-substring-pattern) |
 | [1894-merge-strings-alternately](https://github.com/Rohansinha2003/GFG/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -185,6 +186,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Rohansinha2003/GFG/tree/master/0459-repeated-substring-pattern) |
 ## Linked List
 |  |
 | ------- |
