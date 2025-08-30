@@ -41,6 +41,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Rohansinha2003/GFG/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Rohansinha2003/GFG/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Rohansinha2003/GFG/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
@@ -128,6 +129,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohansinha2003/GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Rohansinha2003/GFG/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Rohansinha2003/GFG/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Rohansinha2003/GFG/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
