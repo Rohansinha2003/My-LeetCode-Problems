@@ -119,6 +119,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0005-longest-palindromic-substring](https://github.com/Rohansinha2003/GFG/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Rohansinha2003/GFG/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rohansinha2003/GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohansinha2003/GFG/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -193,6 +194,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohansinha2003/GFG/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rohansinha2003/GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rohansinha2003/GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 | [0445-add-two-numbers-ii](https://github.com/Rohansinha2003/GFG/tree/master/0445-add-two-numbers-ii) |
