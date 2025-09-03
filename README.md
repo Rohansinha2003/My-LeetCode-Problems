@@ -32,6 +32,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0035-search-insert-position](https://github.com/Rohansinha2003/GFG/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rohansinha2003/GFG/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rohansinha2003/GFG/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
@@ -139,6 +140,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohansinha2003/GFG/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -146,6 +148,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
