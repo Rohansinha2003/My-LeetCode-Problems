@@ -34,6 +34,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0039-combination-sum](https://github.com/Rohansinha2003/GFG/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -73,6 +74,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohansinha2003/GFG/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rohansinha2003/GFG/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
@@ -84,6 +86,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0001-two-sum](https://github.com/Rohansinha2003/GFG/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rohansinha2003/GFG/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Rohansinha2003/GFG/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
@@ -163,6 +166,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0020-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
