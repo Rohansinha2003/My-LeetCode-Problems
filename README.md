@@ -36,6 +36,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -253,6 +254,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rohansinha2003/GFG/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 ## Database
 |  |
 | ------- |
@@ -314,4 +316,8 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rohansinha2003/GFG/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
