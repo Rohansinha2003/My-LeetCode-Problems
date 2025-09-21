@@ -23,6 +23,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohansinha2003/GFG/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohansinha2003/GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Rohansinha2003/GFG/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -99,6 +100,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohansinha2003/GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -225,6 +227,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohansinha2003/GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohansinha2003/GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohansinha2003/GFG/tree/master/0035-search-insert-position) |
