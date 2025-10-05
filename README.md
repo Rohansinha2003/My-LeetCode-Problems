@@ -155,6 +155,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohansinha2003/GFG/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rohansinha2003/GFG/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
@@ -179,6 +180,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0014-longest-common-prefix](https://github.com/Rohansinha2003/GFG/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohansinha2003/GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
@@ -258,6 +260,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohansinha2003/GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rohansinha2003/GFG/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/Rohansinha2003/GFG/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
