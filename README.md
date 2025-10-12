@@ -190,6 +190,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rohansinha2003/GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Rohansinha2003/GFG/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
