@@ -37,6 +37,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0036-valid-sudoku](https://github.com/Rohansinha2003/GFG/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rohansinha2003/GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rohansinha2003/GFG/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Rohansinha2003/GFG/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
@@ -94,6 +95,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohansinha2003/GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rohansinha2003/GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Rohansinha2003/GFG/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Rohansinha2003/GFG/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
