@@ -67,6 +67,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0009-palindrome-number](https://github.com/Rohansinha2003/GFG/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rohansinha2003/GFG/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rohansinha2003/GFG/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Rohansinha2003/GFG/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rohansinha2003/GFG/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
@@ -197,6 +198,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rohansinha2003/GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rohansinha2003/GFG/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Rohansinha2003/GFG/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
@@ -360,6 +362,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rohansinha2003/GFG/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 ## Trie
 |  |
