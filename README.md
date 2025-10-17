@@ -40,6 +40,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0041-first-missing-positive](https://github.com/Rohansinha2003/GFG/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rohansinha2003/GFG/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Rohansinha2003/GFG/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
@@ -289,6 +290,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0022-generate-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rohansinha2003/GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rohansinha2003/GFG/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Rohansinha2003/GFG/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Rohansinha2003/GFG/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
