@@ -104,6 +104,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0036-valid-sudoku](https://github.com/Rohansinha2003/GFG/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Rohansinha2003/GFG/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Rohansinha2003/GFG/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
@@ -211,6 +212,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0044-wildcard-matching](https://github.com/Rohansinha2003/GFG/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Rohansinha2003/GFG/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohansinha2003/GFG/tree/master/0151-reverse-words-in-a-string) |
@@ -304,6 +306,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rohansinha2003/GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Rohansinha2003/GFG/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Rohansinha2003/GFG/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
