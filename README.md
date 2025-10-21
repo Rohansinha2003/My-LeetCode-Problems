@@ -47,6 +47,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0053-maximum-subarray](https://github.com/Rohansinha2003/GFG/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rohansinha2003/GFG/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Rohansinha2003/GFG/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -89,6 +90,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0018-4sum](https://github.com/Rohansinha2003/GFG/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Rohansinha2003/GFG/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Rohansinha2003/GFG/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rohansinha2003/GFG/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
