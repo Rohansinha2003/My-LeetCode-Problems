@@ -76,6 +76,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0043-multiply-strings](https://github.com/Rohansinha2003/GFG/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rohansinha2003/GFG/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Rohansinha2003/GFG/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
@@ -275,6 +276,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0025-reverse-nodes-in-k-group](https://github.com/Rohansinha2003/GFG/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Rohansinha2003/GFG/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Rohansinha2003/GFG/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Rohansinha2003/GFG/tree/master/0060-permutation-sequence) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
