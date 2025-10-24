@@ -77,6 +77,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0048-rotate-image](https://github.com/Rohansinha2003/GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rohansinha2003/GFG/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Rohansinha2003/GFG/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Rohansinha2003/GFG/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
@@ -185,6 +186,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0045-jump-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rohansinha2003/GFG/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Rohansinha2003/GFG/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Rohansinha2003/GFG/tree/master/0392-is-subsequence) |
@@ -395,4 +397,8 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rohansinha2003/GFG/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rohansinha2003/GFG/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
