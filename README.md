@@ -51,6 +51,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0057-insert-interval](https://github.com/Rohansinha2003/GFG/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -296,6 +297,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohansinha2003/GFG/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
@@ -308,6 +310,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0046-permutations](https://github.com/Rohansinha2003/GFG/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rohansinha2003/GFG/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Rohansinha2003/GFG/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
 |  |
