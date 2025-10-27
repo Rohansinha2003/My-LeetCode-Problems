@@ -51,6 +51,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0057-insert-interval](https://github.com/Rohansinha2003/GFG/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rohansinha2003/GFG/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rohansinha2003/GFG/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -190,6 +191,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0055-jump-game](https://github.com/Rohansinha2003/GFG/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rohansinha2003/GFG/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rohansinha2003/GFG/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rohansinha2003/GFG/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Rohansinha2003/GFG/tree/master/0392-is-subsequence) |
@@ -328,6 +330,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0054-spiral-matrix](https://github.com/Rohansinha2003/GFG/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rohansinha2003/GFG/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rohansinha2003/GFG/tree/master/0064-minimum-path-sum) |
 ## Database
 |  |
 | ------- |
