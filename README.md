@@ -53,6 +53,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0063-unique-paths-ii](https://github.com/Rohansinha2003/GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohansinha2003/GFG/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Rohansinha2003/GFG/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0047-permutations-ii](https://github.com/Rohansinha2003/GFG/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Rohansinha2003/GFG/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Rohansinha2003/GFG/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rohansinha2003/GFG/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rohansinha2003/GFG/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
@@ -167,6 +169,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0031-next-permutation](https://github.com/Rohansinha2003/GFG/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rohansinha2003/GFG/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rohansinha2003/GFG/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Rohansinha2003/GFG/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rohansinha2003/GFG/tree/master/0141-linked-list-cycle) |
