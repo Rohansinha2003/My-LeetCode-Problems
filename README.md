@@ -53,6 +53,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0063-unique-paths-ii](https://github.com/Rohansinha2003/GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohansinha2003/GFG/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Rohansinha2003/GFG/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Rohansinha2003/GFG/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -227,6 +228,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0049-group-anagrams](https://github.com/Rohansinha2003/GFG/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rohansinha2003/GFG/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Rohansinha2003/GFG/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Rohansinha2003/GFG/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Rohansinha2003/GFG/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
@@ -402,6 +404,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0043-multiply-strings](https://github.com/Rohansinha2003/GFG/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rohansinha2003/GFG/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Rohansinha2003/GFG/tree/master/0068-text-justification) |
 ## Trie
 |  |
 | ------- |
