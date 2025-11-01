@@ -196,6 +196,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0062-unique-paths](https://github.com/Rohansinha2003/GFG/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rohansinha2003/GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohansinha2003/GFG/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Rohansinha2003/GFG/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Rohansinha2003/GFG/tree/master/0392-is-subsequence) |
@@ -230,6 +231,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0065-valid-number](https://github.com/Rohansinha2003/GFG/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Rohansinha2003/GFG/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Rohansinha2003/GFG/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Rohansinha2003/GFG/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Rohansinha2003/GFG/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
