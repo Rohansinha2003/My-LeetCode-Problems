@@ -85,6 +85,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0062-unique-paths](https://github.com/Rohansinha2003/GFG/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rohansinha2003/GFG/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Rohansinha2003/GFG/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Rohansinha2003/GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohansinha2003/GFG/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohansinha2003/GFG/tree/master/0380-insert-delete-getrandom-o1) |
@@ -312,6 +313,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rohansinha2003/GFG/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Rohansinha2003/GFG/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohansinha2003/GFG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Backtracking
@@ -325,6 +327,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0047-permutations-ii](https://github.com/Rohansinha2003/GFG/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Rohansinha2003/GFG/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Rohansinha2003/GFG/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
 |  |
