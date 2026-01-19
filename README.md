@@ -67,6 +67,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0283-move-zeroes](https://github.com/Rohansinha2003/GFG/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohansinha2003/GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0792-binary-search](https://github.com/Rohansinha2003/GFG/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Rohansinha2003/GFG/tree/master/1646-kth-missing-positive-number) |
@@ -306,6 +307,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0069-sqrtx](https://github.com/Rohansinha2003/GFG/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohansinha2003/GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Rohansinha2003/GFG/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/Rohansinha2003/GFG/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
