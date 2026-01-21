@@ -1,24 +1,33 @@
 class Solution {
 public:
-    int mySqrt(int x) {
-        if (x == 0 || x == 1)
-            return x;
+    long long int binarysearch(int n) {
 
-        int start = 0, end = x, mid, ans = -1;
+        int s=0;
+        int e=n;
+        long long int mid = s+(e-s)/2;
+        long long int ans =-1;
 
-        while (start <= end) {
-            mid = start + (end - start) / 2;
 
-            if (mid == x / mid)
-                return mid;
-            else if (mid < x / mid) {
-                ans = mid;      
-                start = mid + 1;
-            } else {
-                end = mid - 1;
+        while (s<=e)
+        {
+            long long int square = mid * mid;
+            if (square == n)
+            return mid;
+            if (square<n)
+            {
+            ans = mid;
+            s= mid+1;
             }
-        }
+            else
+            {
+                e = mid - 1;
+            }
+            mid= s+(e-s)/2;
 
-        return ans;  
+        }return ans;
+        
+    }
+    int mySqrt(int x){
+        return binarysearch(x);
     }
 };
