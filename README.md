@@ -70,6 +70,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rohansinha2003/GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Rohansinha2003/GFG/tree/master/0948-sort-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Rohansinha2003/GFG/tree/master/1207-unique-number-of-occurrences) |
 | [1646-kth-missing-positive-number](https://github.com/Rohansinha2003/GFG/tree/master/1646-kth-missing-positive-number) |
 | [3321-type-of-triangle](https://github.com/Rohansinha2003/GFG/tree/master/3321-type-of-triangle) |
 ## Math
@@ -126,6 +127,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohansinha2003/GFG/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Rohansinha2003/GFG/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Rohansinha2003/GFG/tree/master/0389-find-the-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/Rohansinha2003/GFG/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
