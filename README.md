@@ -261,18 +261,22 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rohansinha2003/GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohansinha2003/GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rohansinha2003/GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohansinha2003/GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rohansinha2003/GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohansinha2003/GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rohansinha2003/GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohansinha2003/GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 ## String Matching
 |  |
