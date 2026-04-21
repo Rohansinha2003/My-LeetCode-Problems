@@ -56,6 +56,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0068-text-justification](https://github.com/Rohansinha2003/GFG/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Rohansinha2003/GFG/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rohansinha2003/GFG/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohansinha2003/GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohansinha2003/GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohansinha2003/GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -239,6 +240,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0071-simplify-path](https://github.com/Rohansinha2003/GFG/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Rohansinha2003/GFG/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Rohansinha2003/GFG/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Rohansinha2003/GFG/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Rohansinha2003/GFG/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Rohansinha2003/GFG/tree/master/0125-valid-palindrome) |
@@ -266,6 +268,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rohansinha2003/GFG/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Rohansinha2003/GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohansinha2003/GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
@@ -339,6 +342,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0047-permutations-ii](https://github.com/Rohansinha2003/GFG/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Rohansinha2003/GFG/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Rohansinha2003/GFG/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rohansinha2003/GFG/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Rohansinha2003/GFG/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Rohansinha2003/GFG/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
@@ -356,6 +360,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0059-spiral-matrix-ii](https://github.com/Rohansinha2003/GFG/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rohansinha2003/GFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohansinha2003/GFG/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Rohansinha2003/GFG/tree/master/0079-word-search) |
 ## Database
 |  |
 | ------- |
