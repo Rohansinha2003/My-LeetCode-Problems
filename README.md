@@ -259,16 +259,19 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 | [0032-longest-valid-parentheses](https://github.com/Rohansinha2003/GFG/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rohansinha2003/GFG/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Rohansinha2003/GFG/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohansinha2003/GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/Rohansinha2003/GFG/tree/master/0445-add-two-numbers-ii) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohansinha2003/GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rohansinha2003/GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohansinha2003/GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rohansinha2003/GFG/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohansinha2003/GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rohansinha2003/GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohansinha2003/GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
@@ -279,6 +282,7 @@ You can track my LeetCode progress through this repo. It reflects the problems I
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohansinha2003/GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rohansinha2003/GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohansinha2003/GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 ## String Matching
